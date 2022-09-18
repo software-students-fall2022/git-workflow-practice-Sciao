@@ -7,6 +7,12 @@ As a student, I have always seen the development process from the perspective of
 
 
 
+
 #### Comment by Alejandro Olazabal:
 
 As time goes by technology is being more and more integrated in all forms of work. Companies either progress and adjust to technological trends or get left in the dust by their competitors. This idea of outsourcing software developemnt is really interesting because it gives any company the opportnunity to better there products by contracting software developers that arent necessarilly full time workers at the company. It gives company the flexibility to incorporate technology with their product, without having to invest a lot of resources in building a software/tech department. This article sparked my interest in perhaps, creating a software development agency and recruiting very talented developers so we can supply the need for these companies that are outsourcing.
+=======
+## Part Two: Ankit Jain's Comments
+
+I really enjoyed reading this article as well, as it provided me with a lot of new insights about the future of software engineering. I am curious to learn more about how companies have experimented with onshore and offshore outsourcing, and the impacts of each on productivity. Further, I would love to learn more about how the option to outsource software development will impact business' decision making structures. 
+
